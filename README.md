@@ -1,4 +1,4 @@
-# Ki Pkdas — Responsive E-Commerce Website
+# Pkdas — Responsive E-Commerce Website
 
 A fully responsive, multi-page e-commerce website for a clothing brand, built using pure **HTML**, **CSS**, and **JavaScript**, with live product data fetched from the **FakeStore API**.
 
